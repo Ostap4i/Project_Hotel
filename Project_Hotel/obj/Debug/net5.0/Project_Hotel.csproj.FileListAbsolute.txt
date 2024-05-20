@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\Project_Hotel.exe
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\Project_Hotel.deps.json
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\Project_Hotel.runtimeconfig.json
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\Project_Hotel.runtimeconfig.dev.json
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\Project_Hotel.dll
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\ref\Project_Hotel.dll
+C:\Users\student\source\repos\Project_Hotel\bin\Debug\net5.0\Project_Hotel.pdb
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.AssemblyInfo.cs
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.dll
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\ref\Project_Hotel.dll
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.pdb
+C:\Users\student\source\repos\Project_Hotel\obj\Debug\net5.0\Project_Hotel.genruntimeconfig.cache
